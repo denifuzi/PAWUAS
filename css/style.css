@@ -1,4 +1,8 @@
-
+/* 
+  Nama : Dennie Fuzi Alviyanies
+  Kelas : IF10
+  NIM   : 10120918
+*/
 
 /* Font Google - strong reaload time */
 @import url(http://fonts.googleapis.com/css?family=Lato:400,300,100,700,900&subset=latin,latin-ext);
@@ -315,7 +319,6 @@ h1 span{
   background-size: cover;
   height: 85vh;
   margin-top: 0px;
-  /*background:white;*/
   z-index:10;
 }
 
@@ -350,7 +353,6 @@ h1 span{
   font-weight:bold;
   text-transform:uppercase;
   line-height:1.2;
-
 }
 
 .btn {
@@ -365,6 +367,7 @@ h1 span{
   text-transform: uppercase;
   width: 100%;
 }
+
 .btn:hover {
   text-decoration: none;
 }
@@ -389,7 +392,6 @@ h1 span{
 
 
 .effect04:hover{
-
   background-color: #94949c;
 }
 
@@ -425,7 +427,6 @@ h1 span{
   height: 1px;
   width:106px;
   border:0;
-
 }
 
 .about-us p.title{
@@ -480,7 +481,6 @@ h1 span{
   width:100%;
   background:#ffffff;
   z-index:10;
-
 }
 
 .portfolio .portfolio-margin{
