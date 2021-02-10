@@ -574,14 +574,6 @@ h1 span{
   position: absolute;
   width: 285px;
   height:100%;
-  background: rgba(173,160,116,1);
-  z-index: 2;
-  opacity:0;
-    -webkit-transition: all 0.6s ease-in;
-	-moz-transition: all 0.6s ease-in;
-	-ms-transition: all 0.6s ease-in;
-	-o-transition: all 0.6s ease-in;
-	transition: all 0.6s ease-in;
 }
 
 .grid .text:hover {
@@ -592,14 +584,6 @@ h1 span{
   position: absolute;
   width: 285px;
   height:100%;
-  background: rgba(173,160,116,0.5);
-  z-index: 2;
-  opacity:0;
-  -webkit-transition: all 0.6s ease-in;
-	-moz-transition: all 0.6s ease-in;
-	-ms-transition: all 0.6s ease-in;
-	-o-transition: all 0.6s ease-in;
-	transition: all 0.6s ease-in;
 }
 
 .grid .no-text:hover {
@@ -669,7 +653,6 @@ h1 span{
   height: 1px;
   width:106px;
   border:0;
-
 }
 
 .containers {
@@ -955,14 +938,15 @@ input.submit{
 	transition: all 0.6s ease-in;
 }
 
+
 .fa.fa-whatsapp{
   font-size: 50px;
 }
-.fa.fa-instagram{
+.fa.fa-instagram {
   font-size: 50px;
 }
 
-.fa.fa-linkedin{
+.fa.fa-linkedin {
 font-size: 50px;
 
 }
