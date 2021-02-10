@@ -464,13 +464,6 @@ h1 span{
   font-weight:300;
 }
 
-.about-us .column-one{
-  margin-top:40px;
-  width:300px;
-  float:left;
-  margin-bottom:70px;
-  height:350px;
-}
 
 
 /* Portfolio */
@@ -489,55 +482,6 @@ h1 span{
   overflow:hidden;
   margin:0 auto;
 }
-
-.portfolio .portfolio-margin .read-more{
-  width:183px;
-  height:47px;
-  position:relative;
-  margin:50px auto 100px;
-  line-height:47px;
-  border:1px solid #333333;
-  text-transform:uppercase;
-  text-align:center;
-  color:#333333;
-  cursor:pointer;
-  font-size:14px;
-  background:none;
-  -webkit-transition: all 0.6s ease-in;
-	-moz-transition: all 0.6s ease-in;
-	-ms-transition: all 0.6s ease-in;
-	-o-transition: all 0.6s ease-in;
-	transition: all 0.6s ease-in;
-	letter-spacing:1px;
-}
-
-.portfolio .portfolio-margin .read-more:hover{
-  background:#ada074;
-  color:white;
-  border:1px solid #ada074;
-}
-
-.portfolio .portfolio-margin h1{
-  font-size:34px;
-  color:black;
-  text-align:center;
-  margin-top:120px;
-  letter-spacing:6px;
-  font-weight:bold;
-  text-transform:uppercase;
-  line-height:1.2;
-}
-
-.portfolio .portfolio-margin hr{
-  color: black;
-  margin-top:30px;
-  background-color: black;
-  height: 1px;
-  width:106px;
-  border:0;
-}
-
-
 
 
 /* Portfolio grid */
@@ -627,7 +571,6 @@ h1 span{
   /*background:url('../img/background/partners.jpg') 0px 0px fixed;*/
   background-size: cover;
 }
-
 
 
 .skilltittle{
@@ -941,15 +884,35 @@ input.submit{
 
 .fa.fa-whatsapp{
   font-size: 50px;
+  color:black;
+  text-decoration: none;
 }
+
+.fa.fa-whatsapp:hover{
+  color: purple;
+}
+
 .fa.fa-instagram {
   font-size: 50px;
+  color:black;
+  text-decoration: none;
 }
+
+.fa.fa-instagram:hover {
+  color: purple;
+}
+
 
 .fa.fa-linkedin {
 font-size: 50px;
-
+color:black;
+text-decoration: none;
 }
+
+.fa.fa-linkedin:hover{
+  color: purple;
+}
+
 /* Footer */
 
 
