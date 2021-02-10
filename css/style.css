@@ -644,12 +644,7 @@ h1 span{
   background-size: cover;
 }
 
-#skill svg{
 
-  position: absolute;
-  margin-left: -400px;
-  width: 40%;
-}
 
 .skilltittle{
   display: block;
@@ -963,7 +958,14 @@ input.submit{
 .fa.fa-whatsapp{
   font-size: 50px;
 }
+.fa.fa-instagram{
+  font-size: 50px;
+}
 
+.fa.fa-linkedin{
+font-size: 50px;
+
+}
 /* Footer */
 
 
